@@ -5,7 +5,9 @@ The user can use this tool to select data from WRDS to calculate ROA, ROE, curre
 The target audience of this project is professional financial data analysts or business students at universities. This project provides a convenient way to filter data, perform calculations based on financial formulas, and generate simple comments based on the calculated results.
 
 # 2. Data Source
-The sources are from WRDS database.
+Wharton Research Data Services (WRDS)
+Access date: 2026-04-20
+Period: 2010-2023
 
 # 3. Methods (Python Workflow)
 Import Pandas for financial data filtering, table processing, data cleaning, and calculations, and import WRDS to directly pull corporate financial statement data from the database.
