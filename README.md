@@ -6,7 +6,9 @@ The target audience of this project is professional financial data analysts or b
 
 # 2. Data Source
 Wharton Research Data Services (WRDS)
+
 Access date: 2026-04-20
+
 Period: 2010-2023
 
 # 3. Methods (Python Workflow)
